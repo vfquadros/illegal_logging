@@ -1,0 +1,8 @@
+*.RData
+empirical_facts/03_data_outputs/tab/*.RData
+empirical_facts/02_inputs/
+empirical_facts/03_data_outputs/
+*.csv
+.Rhistory
+.Rproj.user/
+illegal_logging.Rproj
